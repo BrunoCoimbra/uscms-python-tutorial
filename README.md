@@ -1,0 +1,3 @@
+# USCMS Undergraduate Summer Internship Python Tutorial
+
+This tutorial is designed to introduce you to Python, a high-level programming language that is widely used in the scientific community. Python is known for its readability and ease of use, making it a great language for beginners. In this tutorial, you will learn the basics of Python programming, including data types, control structures, functions, and more. By the end of this tutorial, you will have the skills to write your own Python programs and analyze data using Python.
